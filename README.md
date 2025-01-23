@@ -108,6 +108,11 @@ id INT AUTO_INCREMENT,
 );
 ```
 
+## Describes Table
+```sql
+DESC tablename;
+```
+
 ## Delete / Drop Table
 
 ```sql
